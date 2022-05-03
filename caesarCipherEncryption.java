@@ -1,11 +1,6 @@
 
 import java.util.*;
 
-
-
-
-
-
 public class caesarCipherEncryption {
     public static void main(String[] args) {
         Scanner plainInput = new Scanner(System.in);
